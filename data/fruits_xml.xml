@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<document>
+  <row>
+    <NO>1</NO>
+    <NAME>Apple</NAME>
+    <PRICE>500</PRICE>
+    <QTY>5</QTY>
+  </row>
+  <row>
+    <NO>2</NO>
+    <NAME>Peach</NAME>
+    <PRICE>200</PRICE>
+    <QTY>2</QTY>
+  </row>
+  <row>
+    <NO>3</NO>
+    <NAME>Banana</NAME>
+    <PRICE>100</PRICE>
+    <QTY>4</QTY>
+  </row>
+  <row>
+    <NO>4</NO>
+    <NAME>Grape</NAME>
+    <PRICE>50</PRICE>
+    <QTY>7</QTY>
+  </row>
+</document>
